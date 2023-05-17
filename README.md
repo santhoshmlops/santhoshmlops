@@ -15,12 +15,12 @@
 <!-- Languages and Tools -->
 <p align="left">
 <h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/web-programming.png" width = "35" height = "35" > Languages and Tools: </h1>
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Spring" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/matplot.png"/>
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/seaborn.png"/>
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> 
+<img align="left" alt="TypeScript" width="60px" style="padding-right:10px;" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/seaborn.png"/>
+<img align="left" alt="TypeScript" width="70px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> 
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
@@ -33,8 +33,8 @@
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/postman.png"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/aws.png"/>
-<img align="left" alt="TypeScript" width="75px" style="padding-right:10px;" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/Google%20Cloud.png"/>
+<img align="left" alt="TypeScript" width="60px" style="padding-right:10px;" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/aws.png"/>
+<img align="left" alt="TypeScript" width="70px" style="padding-right:10px;" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/Google%20Cloud.png"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
@@ -46,11 +46,7 @@
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<br />
-<br />
-<br />
-<br />
-<br />
+
 
 
 <!-- Connect with me -->
