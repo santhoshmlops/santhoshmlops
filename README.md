@@ -15,7 +15,7 @@
 
 <!-- Languages and Tools -->
 <br /> 
-<h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/web-programming.png" width = "35" height = "35" > Python Libraries and Frameworks: </h1>
+<h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/py.png" width = "35" height = "35" > Python Libraries and Frameworks: </h1>
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Spring" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
