@@ -31,8 +31,8 @@
 <br />
 <br />
 <br />
-<br />
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+<img align="left" alt="TypeScript" width="50px" style="padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> 
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
@@ -45,8 +45,8 @@
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
 <br />
 <br />
-<br />
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+
+<img align="left" alt="TypeScript" width="50px" style="padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -59,8 +59,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 <!-- Connect with me -->
 
