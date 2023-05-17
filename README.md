@@ -70,7 +70,6 @@
     <a href="" target="blank"><img src="https://skillicons.dev/icons?i=twitter"/>
     <a href="" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/>
     <a href="" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/>
-    <a href="" target="blank"><img src="https://skillicons.dev/icons?i=github"/>
     <a href="" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow"/>
       
   </a>  
