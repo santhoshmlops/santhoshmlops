@@ -16,20 +16,20 @@
 <!-- Languages and Tools -->
 <br /> 
 <h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/web-programming.png" width = "35" height = "35" > Python Libraries and Frameworks: </h1>
-<img align="left" alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Spring" width="45px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="TypeScript" width="45px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/matplot.png"/>
-<img align="left" alt="TypeScript" width="45px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/seaborn.png"/>
-<img align="left" alt="TypeScript" width="50px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/scikit.png"/> 
-<img align="left" alt="TypeScript" width="45px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/scipy.png"/> 
-<img align="left" alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Spring" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img align="left" alt="TypeScript" width="40px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/matplot.png"/>
+<img align="left" alt="TypeScript" width="40px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/seaborn.png"/>
+<img align="left" alt="TypeScript" width="55px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/scikit.png"/> 
+<img align="left" alt="TypeScript" width="40px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/scipy.png"/> 
+<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
 <!-- <img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/> -->
-<img align="left" alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-<img align="left" alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/> 
-<img align="left" alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-<img align="left" alt="TypeScript" width="45px" style="padding-right:10px;" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/streamlit%20(1).png"/>
+<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/> 
+<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/streamlit%20(1).png"/>
 <!-- <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> 
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
@@ -62,7 +62,8 @@
 
 
 <!-- Connect with me -->
-
+<br />
+<br />
 <h1> <img align="left" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/freelance.png" width = "35" height = "35" >Connect with me: </h1>
 <p align="left">
   <a href="https://skillicons.dev">  
@@ -74,10 +75,10 @@
       
   </a>  
 </p> 
-
-       
-<!-- Streak Status       -->
-<br />      
+     
+<!-- Streak Status       -->  
+<br /> 
+      
 <h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/fire.png" width = "35" height = "35" >  Streak Status: </h1>
        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshmlops&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
