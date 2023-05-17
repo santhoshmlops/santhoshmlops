@@ -13,7 +13,6 @@
 <h3> <img style="padding-left:75px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/internet-of-things.png" width = "25" height = "25" > &nbsp  Internet of Things </h3>
 
 <!-- Languages and Tools -->
-
 <p align="left">
 <h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/web-programming.png" width = "35" height = "35" > Languages and Tools: </h1>
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -31,7 +30,7 @@
 <br />
 <br />
 <br />
-
+<br />
 <img align="left" alt="TypeScript" width="50px" style="padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> 
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
@@ -45,7 +44,7 @@
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
 <br />
 <br />
-
+<br />
 <img align="left" alt="TypeScript" width="50px" style="padding-top:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
