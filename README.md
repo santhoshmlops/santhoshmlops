@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width = "35"  > Hello World!, I'm Santhosh Kumar! </h1>  
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width = "35" >  Hello World!, I'm Santhosh Kumar! </h1>  
 
 <!-- Welcome to My Repository -->
 <h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/partnership-handshake.png" width = "35" height = "35" > Welcome to My Repository: </h1>
