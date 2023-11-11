@@ -62,8 +62,7 @@
   </a>  
 </p> 
    
-      
-      
+    
 <!-- Streak Status       -->  
 <br /> 
       
