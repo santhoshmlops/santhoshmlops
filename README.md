@@ -1,16 +1,15 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width = "35" >  Hello World!, I'm Santhosh Kumar! </h1>  
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width = "35" >   I'm Santhosh Kumar </h1>  
 
-
-<!-- Welcome to My Repository -->
-<h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/partnership-handshake.png" width = "35" height = "35" > Welcome to My Repository: </h1>
-<h3>  I would like to introduce myself briefly and provide some background information about my experience and interests in machine learning. In this repository, I explain my passion for machine learning and what motivates me to pursue it. The purpose of this repository is to showcase my machine-learning projects. </h3>
-
-
+<p align="center">
+  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=+Welcome+to+my+Repository;A+passionate+AI+Enthusiast;Eager+to+Explore+Things;Interested+in+LLM+inferenceing;Fine-tuning+LLM+Models;The+frontiers+of+AI&center=true&width=380&height=45"></a>
+</p>
 
 
 <!-- What I'm Focusing on: -->
 <br /> 
-<h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/target.png" width = "35" height = "35" > What I'm Focusing on: </h1>
+<h1>  What I'm Focusing on: </h1>
+<h3> <img style="padding-left:75px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/chip.png" width = "25" height = "25" > &nbsp  Generative Ai </h3>
+<h3> <img style="padding-left:75px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/predictive-models.png" width = "25" height = "25" > &nbsp  Large Language Model </h3>
 <h3> <img style="padding-left:75px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/machine.png" width = "25" height = "25" > &nbsp  Machine Learning </h3>
 <h3> <img style="padding-left:75px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/deep-learning.png" width = "25" height = "25" > &nbsp  Deep Learning </h3>
 <h3> <img style="padding-left:75px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/vision.png" width = "25" height = "25" > &nbsp  Computer Vision </h3>
@@ -21,7 +20,7 @@
 
 <!-- Languages and Tools -->
 <br /> 
-<h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/py.png" width = "35" height = "35" > Python Libraries and Frameworks: </h1>
+<h1>  Python Libraries and Frameworks: </h1>
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Spring" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
@@ -42,28 +41,27 @@
 
 <!-- Languages and Cloud Platform: -->
 <br /> 
-<h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/web-programming.png" width = "35" height = "35" > Languages and Cloud Platform: </h1>
+<h1>  Languages and Cloud Platform: </h1>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,html,css,bootstrap,postman,heroku,git,githubactions,docker,aws,gcp,azure"/>
 </a>
 
 
-
 <!-- Connect with me -->
 <br />
 <br />
-<h1> <img align="left" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/freelance.png" width = "35" height = "35" >Connect with me: </h1>
+
+<h1> Connect with me: </h1>
+
 <p align="left">
   <a href="https://skillicons.dev">  
-    <a href="" target="blank"><img src="https://skillicons.dev/icons?i=twitter"/>
     <a href="" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/>
+    <a href="" target="blank"><img src="https://skillicons.dev/icons?i=twitter"/>
     <a href="" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/>
-    <a href="" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow"/>
-      
-  </a>  
+    <a href="https://santhoshmlops.github.io/santhosh.github.io" ><img align="left" alt="TypeScript" width="50px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/browser.png"/> 
+  </a>    
 </p> 
-   
-    
+  To view my portfolio and blog, click the website icon
 <!-- Streak Status       -->  
 <br /> 
       
