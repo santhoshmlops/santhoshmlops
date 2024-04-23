@@ -8,7 +8,7 @@
 <!-- What I'm Focusing on: -->
 <br /> 
 <h1>  What I'm Focusing on: </h1>
-<h3> <img style="padding-left:75px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/chip.png" width = "25" height = "25" > &nbsp  Generative Ai </h3>
+<h3> <img style="padding-left:75px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/chip.png" width = "25" height = "25" > &nbsp  Generative AI </h3>
 <h3> <img style="padding-left:75px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/predictive-models.png" width = "25" height = "25" > &nbsp  Large Language Model </h3>
 <h3> <img style="padding-left:75px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/machine.png" width = "25" height = "25" > &nbsp  Machine Learning </h3>
 <h3> <img style="padding-left:75px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/deep-learning.png" width = "25" height = "25" > &nbsp  Deep Learning </h3>
