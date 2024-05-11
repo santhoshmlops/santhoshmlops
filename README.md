@@ -57,7 +57,7 @@
   <a href="https://skillicons.dev">  
     <a href="" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/>
     <a href="" target="blank"><img src="https://skillicons.dev/icons?i=twitter"/>
-    <a href="https://www.linkedin.com/in/santhoshskai/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/>
+    <a href="https://www.linkedin.com/in/santhoshmlops/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/>
     <a href="https://santhoshmlops.github.io/santhosh.github.io" ><img align="left" alt="TypeScript" width="50px" src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/browser.png"/> 
   </a>    
 </p> 
