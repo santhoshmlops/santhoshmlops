@@ -72,5 +72,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhoshmlops&show_icons=true&theme=dracula)  
        
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshmlops&theme=dracula" alt="santhoshmlops" />   
-      
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="santhoshmlops's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=santhoshmlops&bg_color=282A36&color=F66A94&line=87DBFA&point=FFFFFF" /></a>       
+     
