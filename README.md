@@ -62,10 +62,38 @@
   </a>    
 </p> 
   To view my portfolio and blog, click the website icon
+  
+
+<h1>   Project Experience: </h1>
+
+<h3>  Generative AI - LLMs Related </h3>
+
+| Project Title | Code | 
+|----------|:-------------:|
+| Domain-Specific Multimodal Rag Application | [Code](https://github.com/santhoshmlops/DomainSpecific-MultimodalRagApplication) | 
+| Gemini Pro & Gemini Pro Vision - Multimedia Chat GPT | [Code](https://github.com/santhoshmlops/MultimediaChatGPT-Gemini) | 
+| Groq- Mistral(8X7B) -  Chat Interface  | [Code](https://github.com/santhoshmlops/Groq-Chat-Interface) | 
+| Pandas AI -  Chat with Multiple CSV | [Code](https://github.com/santhoshmlops/PandasAI_Chat_with_multiple_CSV) | 
+| ScrapeGraphAI - LLMs Powered WebScrapper | [Code](https://github.com/santhoshmlops/Project_Work/tree/main/FL%20-%202.%20Scrape_Website_using_LLM) | 
+| CrewAI- Zephyr7B - LinkedIn Post Creator  | [Code](https://github.com/santhoshmlops/Crew-AI-LinkedIn-Post-Creator) | 
+| FasterWhisper - Audio to Text Extraction | [Code](https://github.com/santhoshmlops/Project_Work/tree/main/FL%20-%20%201.%20Audio_to_Text) | 
+
+<h3>  LLMs Fine-Tunings </h3>
+
+| Project Title | Code | 
+|----------|:-------------:|
+| Gemma-2B-It  -  Supervised Fine-Tuning | [Code](https://github.com/santhoshmlops/MyHF_LLM_FineTuning/blob/main/Project-Gemma-Fine-Tuning/Skai_Skai_gemma_2b_it_SFT_FineTuning.ipynb) | 
+| Gemma-2B-It  -  llama.cpp GGUF Quantization (q4_k_m) | [Code](https://github.com/santhoshmlops/MyHF_LLM_FineTuning/blob/main/Project-Gemma-Fine-Tuning/Skai_Skai_gemma_2b_it_SFT_LLAMACPP_FineTuning.ipynb) | 
+| Gemma-2B-It  -  Unsloth Fine-Tuning | [Code](https://github.com/santhoshmlops/MyHF_LLM_FineTuning/blob/main/Skai_gemma_2b_it_Unsloth_SFT_FineTuning.ipynb) | 
+| Phi2  -  llama.cpp GGUF Quantization(q4_k_m) | [Code](https://github.com/santhoshmlops/MyHF_LLM_FineTuning/blob/main/Skai_LLAMACPP_microsoft_phi_2_FineTuning_LLM.ipynb) | 
+| Qwen1.5B   -  llama.cpp GGUF Quantization | [Code](https://github.com/santhoshmlops/MyHF_LLM_FineTuning/blob/main/Skai_LLMQuantize_Qwen1_5_llama_cpp.ipynb) | 
+| TinyLlama 1.1B Chat   -  Supervised Fine-Tuning | [Code](https://github.com/santhoshmlops/MyHF_LLM_FineTuning/blob/main/Skai_TinyLlama_FineTune.ipynb) | 
+
+      
 <!-- Streak Status       -->  
 <br /> 
       
-<h1> <img src="https://github.com/santhoshmlops/santhoshmlops/blob/main/img/fire.png" width = "35" height = "35" >  Streak Status: </h1>
+<h1>  Streak Status: </h1>
        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshmlops&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
        
