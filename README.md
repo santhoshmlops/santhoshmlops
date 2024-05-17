@@ -68,7 +68,7 @@
 
 <h3>  Generative AI - LLMs Related </h3>
 
-| Project Title | Code | 
+| Project Title | Repository | 
 |----------|:-------------:|
 | Domain-Specific Multimodal Rag Application | [Code](https://github.com/santhoshmlops/DomainSpecific-MultimodalRagApplication) | 
 | Gemini Pro & Gemini Pro Vision - Multimedia Chat GPT | [Code](https://github.com/santhoshmlops/MultimediaChatGPT-Gemini) | 
@@ -80,7 +80,7 @@
 
 <h3>  LLMs Fine-Tunings </h3>
 
-| Project Title | Code | 
+| Project Title | Repository | 
 |----------|:-------------:|
 | Gemma-2B-It  -  Supervised Fine-Tuning | [Code](https://github.com/santhoshmlops/MyHF_LLM_FineTuning/blob/main/Project-Gemma-Fine-Tuning/Skai_Skai_gemma_2b_it_SFT_FineTuning.ipynb) | 
 | Gemma-2B-It  -  llama.cpp GGUF Quantization (q4_k_m) | [Code](https://github.com/santhoshmlops/MyHF_LLM_FineTuning/blob/main/Project-Gemma-Fine-Tuning/Skai_Skai_gemma_2b_it_SFT_LLAMACPP_FineTuning.ipynb) | 
@@ -89,7 +89,9 @@
 | Qwen1.5B   -  llama.cpp GGUF Quantization | [Code](https://github.com/santhoshmlops/MyHF_LLM_FineTuning/blob/main/Skai_LLMQuantize_Qwen1_5_llama_cpp.ipynb) | 
 | TinyLlama 1.1B Chat   -  Supervised Fine-Tuning | [Code](https://github.com/santhoshmlops/MyHF_LLM_FineTuning/blob/main/Skai_TinyLlama_FineTune.ipynb) | 
 
-      
+
+To View my trained model on Hugging Face - https://huggingface.co/santhoshmlops
+
 <!-- Streak Status       -->  
 <br /> 
       
