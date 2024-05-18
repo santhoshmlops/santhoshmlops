@@ -4,7 +4,6 @@
   <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=+Welcome+to+my+Repository;A+passionate+AI+Enthusiast;Eager+to+Explore+Things;Interested+in+LLM+inferenceing;Fine-tuning+LLM+Models;The+frontiers+of+AI&center=true&width=380&height=45"></a>
 </p>
 
-
 <!-- What I'm Focusing on: -->
 <br /> 
 <h1>  What I'm Focusing on: </h1>
