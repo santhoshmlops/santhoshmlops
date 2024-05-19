@@ -91,6 +91,19 @@
 
 To View my trained model on Hugging Face - https://huggingface.co/santhoshmlops
 
+<h3>  ML | DL | NLP - Project </h3>
+
+| Project Title | Repository | 
+|----------|:-------------:|
+| End-to-End Cancer Classification - Mlflow and DVC | [Code](https://github.com/santhoshmlops/CancerClassification_Mlflow-DVC_MlopsProject) | 
+| End-to-End Speech Classification CI-CD Pipeline Project| [Code](https://github.com/santhoshmlops/SpeechClassification) | 
+| End-to-End Text Summarization  | [Code](https://github.com/santhoshmlops/TextSummarizer) | 
+| End-to-End Chicken Disease Detection | [Code](https://github.com/santhoshmlops/DL-ChickenDiseaseClassification) | 
+| End-to-End Students Performance Analyzer | [Code](https://github.com/santhoshmlops/StudentsPerformancePipelineProject) | 
+| Employee Salary Predection | [Code](https://github.com/santhoshmlops/EmployeeSalaryPipelineProject) | 
+| Kidney Tumor Classification Project | [Code](https://github.com/santhoshmlops/KidneyTumorClassification_Project) | 
+
+
 <!-- Streak Status       -->  
 <br /> 
       
